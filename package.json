@@ -1,0 +1,21 @@
+{
+  "name": "integration",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/my_package/issues"
+  },
+  "author": "lihongfeng 00266782",
+  "license": "ISC"
+  "dependencies": {
+    "webpack": "1.12.9"
+  }
+}
